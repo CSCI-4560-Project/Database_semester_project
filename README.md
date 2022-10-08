@@ -3,7 +3,7 @@
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Book-icon-bible.png"
       alt="OUR VIRTUAL LIBRARY"
-      height="80"
+      height="150"
     />
   </a>
   <br />
@@ -29,11 +29,12 @@
        
      
   </p>
+
   <p>
     <sub>
-      Built by ❤︎ Our Team (Pierce,Riley,Emily,Thomas)
+      Built by ❤︎ Our Team (👨Pierce,👨Riley,👩Emily,👨Thomas)
                              
-## OUR VIDEO WALKTHROUGH:
+## 🧙OUR VIDEO WALKTHROUGH:
 -----------------------------------
        
  <!--------------------------------------------SCREENSHOT ------------------------>
@@ -41,11 +42,11 @@
                  
                  
                  
-
+<video controls autoplay>
             
 https://user-images.githubusercontent.com/73293720/194685123-9a1a9e9f-eaaf-4538-813b-b535545c0902.mp4
 
-
+</video>
           
                  
  <!--------------------------------------------SCREENSHOT ------------------------>
@@ -62,17 +63,27 @@ Our Goal by building this project is to:
 -   Industry grade Technology Stack
 -   Showcase our project 
 
-🚀 **Requests:** WE are Currently still in Development Phase. Our Goal is to have the project completed and Fully Functional towards the end of the semester,our main communication channel is on Slack.
+## 📲 For Step By Step Guide:
+         Please Follow The video above.
+                 
+🚀 **Requests:** WE are Currently still in Development Phase. Our Goal is to have the project completed and Fully Functional towards the end of the semester,our main communication channel is on 🔔Slack.
 
 
+
+**System Pre-requisites:**
+- node package manager: https://www.npmjs.com/
+- React: https://reactjs.org/
+- mySQL: https://www.mysql.com/
 
 **How to build:**
 -------------------
 # Getting Started with Create React App and Fluent UI
 
+This is a [Create React App](https://github.com/facebook/create-react-app) based repo that comes with Fluent UI pre-installed!
+
 ## Available Scripts
 
-In the project directory, to see the official front-end code, you can run:
+In the project directory, you can run:
 
 ### `npm start`
 
