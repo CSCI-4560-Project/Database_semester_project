@@ -34,6 +34,22 @@
     <sub>
       Built by ❤︎ Our Team (👨Pierce,👨Riley,👩Emily,👨Thomas)
                              
+                             
+#HOW TO RUN OUR CODE SET BY STEP:
+-------------------------------
+1. Download as a ZIP From GITHUB.
+2. Once you unzip the folder navigate to server & Client Folder 
+3. In Client Folder run npm start to start at LocalHosT:3000
+4. In Server Folder Run node index.js starts 
+5. Make sure you have Mysqlserver setup as 'LibraryDatabase' With the valid Info and Schema 
+6. Now you are all set. 
+7. you may proceed with Registering for a Username and password to validate your entiries into our web App.
+
+
+
+
+
+
 ## 🧙OUR VIDEO WALKTHROUGH:
 -----------------------------------
        
